@@ -1,6 +1,8 @@
 # CODSOFT
 CODSOFT Web Development Internship
 
+The Tasks are uploaded in Branches.
+
 Task - 1
 Landing Page
 
