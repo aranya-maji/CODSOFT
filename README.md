@@ -1,8 +1,6 @@
 # CODSOFT
 CODSOFT Web Development Internship
 
-The Tasks are uploaded in Branches.
-
 Task - 3
 Calculator
 
