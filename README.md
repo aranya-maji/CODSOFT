@@ -1,8 +1,6 @@
 # CODSOFT
 CODSOFT Web Development Internship
 
-The Tasks are uploaded in Branches.
-
 Task - 2 Personal Portfolio
 
 Created a personal portfolio website with HTML, CSS and JS. Also includes Resume Download system.
